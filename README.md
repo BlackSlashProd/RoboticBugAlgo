@@ -10,7 +10,7 @@
 
 <h2>URL</h2>
 
-<b>Subject URL : </b> <a href="" target="_blank">ProjectBugAlgo.pdf</a><br/>
+<b>Subject URL : </b> <a href="https://github.com/BlackSlashProd/RoboticBugAlgo/blob/master/doc/PP1_ProjetRobotique_CahierDesCharges.pdf" target="_blank">ProjectBugAlgo.pdf</a><br/>
  
 <h2>Authors</h2>
 
